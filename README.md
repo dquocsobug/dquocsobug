@@ -1,21 +1,21 @@
-# 👋 DANG QUOC HUY
+# 👋 LE DUY QUOC
 
-<h1 align="center">Fullstack</h1>
+<h1 align="center">Frontend</h1>
 
 <p align="center">
   💉 <b>Building scalable solutions with modern technology</b>
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/-PORTFOLIO-FF5722?style=flat&logo=google-chrome&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dangquochuy.connect@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/-GITHUB-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/dquocsobug"><img src="https://img.shields.io/badge/-PORTFOLIO-FF5722?style=flat&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/quốc-lê-41b533305/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:leduyquoc123meo@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/dquocsobug"><img src="https://img.shields.io/badge/-GITHUB-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat&logo=github" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=dquocsobug&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/dquocsobug?label=FOLLOWERS&style=flat&logo=github" alt="followers" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 ```javascript
 const developer = {
-  name: "Dang Quoc Huy",
+  name: "Le Duy Quoc",
   based_in: "Da Nang, Vietnam 🇻🇳",
   role: "Fullstack Developer + DevOps Engineer",
   
@@ -114,11 +114,11 @@ I automate everything that takes more than 5 minutes 🤖
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dquocsobug&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dquocsobug&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -137,13 +137,14 @@ I automate everything that takes more than 5 minutes 🤖
 
 Open to DevOps/Fullstack opportunities, technical collaborations, and knowledge sharing.
 
-📧 [dangquochuy.connect@gmail.com](mailto:dangquochuy.connect@gmail.com)  
-🌐 [dangquochuy.id.vn](https://dangquochuy.id.vn)
+📧 [leduyquoc123meo@gmail.com](mailto:leduyquoc123meo@gmail.com)  
+🌐 [github.com/dquocsobug](https://github.com/dquocsobug)  
+💼 [LinkedIn](https://www.linkedin.com/in/quốc-lê-41b533305/)
 
 <p align="center">
   <i>"Automating today, scaling tomorrow"</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dquocsobug&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
