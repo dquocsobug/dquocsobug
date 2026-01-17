@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">👋 Lê Duy Quốc</h1>
+<h3 align="center">Developer</h3>
 
-<!--
-**dquocsobug/dquocsobug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Welcome to my GitHub profile
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+- 💻 IT Student / Developer
+- 📍 Da Nang, Vietnam
+- 🌱 Learning Web, Backend & DevOps
+- ⚡ Fun fact: I love automating things
+
+---
+
+## 💻 Tech Stack
+![Skills](https://skillicons.dev/icons?i=html,css,js,java,git,github)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dquocsobug&style=flat-square" />
+</p>
