@@ -26,7 +26,7 @@
 const developer = {
   name: "Le Duy Quoc",
   based_in: "Da Nang, Vietnam 🇻🇳",
-  role: "Fullstack Developer + DevOps Engineer",
+  role: "Fullstack Developer",
   
   expertise: [
     "Cloud-native architecture",
